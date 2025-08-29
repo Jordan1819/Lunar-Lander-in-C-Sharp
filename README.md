@@ -1,4 +1,4 @@
-# 🌙 Lunar Lander (C#)
+# 🌙 Lunar Lander
 
 ## 🎯 Project Goal
 A recreation of the classic **Lunar Lander game** in **C#**, built with a focus on:  
