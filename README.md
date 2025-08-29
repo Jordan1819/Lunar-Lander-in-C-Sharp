@@ -9,7 +9,7 @@ A recreation of the classic **Lunar Lander game** in **C#**, built with a focus 
 
 Expanded beyond the basics with:  
 - ✨ Custom menu effects and polished UI  
-- ⚙️ A self-built **physics engine** for gravity and thrust  
+- ⚙️ A self-built **physics engine** for gravity and thrust utilizing projectile physics concepts
 - 🎮 Multiple **game modes** (classic, side-thrust, and rotation-based control)  
 
 ---
@@ -23,7 +23,7 @@ Expanded beyond the basics with:
 - ⛽ **Fuel system** with depletion mechanics and a visual gauge  
 - 📊 **HUD** displaying height, velocity, and fuel levels  
 - 📋 **Menu options** (pause, help, toggle modes)  
-- 💥 **Crash/Explosion animations** if landing speed exceeds safe threshold  
+- 💥 **Crash/Failure** if landing speed exceeds safe threshold  
 - ↔️ **Left/Right thrusters** with horizontal velocity persistence  
 - 🪨 **Surface obstacles** (rocks that destroy the ship on contact)  
 - 🔄 **Rotational controls** (rotate lander in vacuum, enabling angled thrust movement)  
@@ -36,7 +36,7 @@ Expanded beyond the basics with:
   2. Side-thrust controls  
   3. Rotation-based controls with full vector physics  
 - 🌌 **Wrap-around mechanics** (fly off-screen left → appear on right, and vice versa)  
-- 🧨 **Explosion animations** with expanding lines and circles  
+- 🧨 **Explosion and thruster animations** with expanding lines and circles  
 
 ---
 
@@ -56,7 +56,7 @@ Expanded beyond the basics with:
 
 ## 📖 Controls
 - **Spacebar** → Toggle main engine (burns fuel, provides upward thrust)  
-- **L / R** → Side engines or rotation (depending on game mode)  
+- **A / D** → Side engines or rotation (depending on game mode)  
 - **Menu** → Switch between game modes, pause, or show help  
 
 ---
