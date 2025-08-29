@@ -9,7 +9,7 @@ A recreation of the classic **Lunar Lander game** in **C#**, built with a focus 
 
 Expanded beyond the basics with:  
 - ✨ Custom menu effects and polished UI  
-- ⚙️ A self-built **physics engine** for gravity and thrust utilizing projectile physics concepts
+- ⚙️ A self-built **physics engine** for gravity and thrust utilizing projectile vector physics principles
 - 🎮 Multiple **game modes** (classic, side-thrust, and rotation-based control)  
 
 ---
