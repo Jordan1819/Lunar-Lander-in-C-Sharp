@@ -1,4 +1,4 @@
-# 🌙 Lunar Lander
+![](images/LL1.png)
 
 ## 🎯 Project Goal
 A recreation of the classic **Lunar Lander game** in **C#**, built with a focus on:  
@@ -60,6 +60,11 @@ Expanded beyond the basics with:
 - **Menu** → Switch between game modes, pause, or show help  
 
 ---
+
+## 📱 Screenshots
+![](images/LL2.png)
+![](images/LL3.png)
+![](images/LL4.png)
 
 ## 📚 Resources Utilized
 - [Lunar Lander (video game genre) – Wikipedia](https://en.wikipedia.org/wiki/Lunar_Lander_(video_game_genre))  
